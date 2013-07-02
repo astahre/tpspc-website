@@ -46,7 +46,7 @@ body {
 }
 /* Masthead Styles */
 #masthead h1 {
-	color: #b71;
+	color: #08088A;
 }
 #masthead h3 {
 	color: #542;
@@ -67,7 +67,7 @@ body {
 	background-color: #fff;
 }
 #navigation a {
-	color: #a60;
+	color: #08088A;
 	text-decoration: none;
 	display: block;
 	padding: 5px;
@@ -82,7 +82,7 @@ body {
 }
 /* Content Styles */
 #content h1,h2,h3,h4,h5,h6 {
-	color: #885533;
+	color: #08088A;
 }
 #content img {
 	padding: 5px;
@@ -97,7 +97,7 @@ body {
 	padding-bottom: 0px;
 }
 #footer a {
-	color: #a60;
+	color: #08088A;
 	text-decoration: underline;
 }
 #footer a:hover {
@@ -105,7 +105,7 @@ body {
 	text-decoration: none;
 }
 a {
-	color: #a60;
+	color: #08088A;
 	text-decoration: underline;
 }
 a:hover {
